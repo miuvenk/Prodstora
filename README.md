@@ -70,7 +70,7 @@
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/miuvenk/Prodstora
-   cd Prodstora
+   cd prodstora
 
 2. **Install Dependencies**:
    ```bash
